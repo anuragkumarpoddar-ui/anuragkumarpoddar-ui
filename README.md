@@ -1,6 +1,6 @@
 **👋 Hi, I'm Anurag Kumar Poddar**
 
-💼 Data Analyst | Turning Data into Insights
+💼 Data Analyst | 💼 Bardaha Criholic Private Limited | Turning Data into Insights
 
 
 Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passionate about transforming raw data into meaningful insights that support business decisions.
@@ -32,12 +32,15 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - IBM Excel Basics for Data Analysis
 - IBM Introduction To Data A nalysis
 - Data Analytics Essentials By Coursera
-- Engineering from WBUT\
+- Engineering from WBUT in Mechanical
 
-🌱 Currently Learning  
-Advanced Data Analytics Techniques-Machine Learning Basics-Data Storytelling & Business Insights
-Use of AI in Data Analytics
-Cloud
+🌱Currently Learning
+
+📊 Advanced Data Analytics Techniques  
+🤖 Machine Learning Basics  
+📈 Data Storytelling & Business Insights  
+🧠 AI in Data Analytics  
+☁️ Cloud Computing  
 
 
 
@@ -45,6 +48,7 @@ Cloud
 - 💼 LinkedIn: https://www.linkedin.com/in/anurag-poddar-51239596/
 - 📧 Email: anuragkumarpoddar@gmail.com
 - 📫 Instagram: https://www.instagram.com/anuraginzen111/
+- 🤖 Contact: +91 9748748405
 
 ⚡ Fun Fact :    
 🔥I enjoy working with data and turning numbers into stories that drive impact 🚀
