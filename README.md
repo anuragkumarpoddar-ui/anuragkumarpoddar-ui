@@ -26,7 +26,11 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - Support decision-making using insights and visualizations
 
 📚 Certifications
+- IBM Data Visualization with Python
+- IBM Data Analysis with Python
+- IBM Databases and SQL for Data Science with Python
 - IBM Python Project for Data Science
+- SKILLCOURSE 30 Days Python Micro Course
 - IBM Python for Data Science, AI & Development
 - IBM Data Visualization and Dashboards with Excel and Cognos
 - IBM Excel Basics for Data Analysis
