@@ -31,6 +31,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - IBM Databases and SQL for Data Science with Python
 - IBM Python Project for Data Science
 - SKILLCOURSE 30 Days Python Micro Course
+- SKILLCOURSE 30 Days Power BI Micro Course
 - IBM Python for Data Science, AI & Development
 - IBM Data Visualization and Dashboards with Excel and Cognos
 - IBM Excel Basics for Data Analysis
@@ -41,7 +42,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 🌱Currently Learning
 
 📊 Advanced Data Analytics Techniques  
-🤖 Machine Learning Basics  
+🤖 Machine Learning (Basics) 
 📈 Data Storytelling & Business Insights  
 🧠 AI in Data Analytics  
 ☁️ Cloud Computing  
