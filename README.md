@@ -26,6 +26,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - Support decision-making using insights and visualizations
 
 📚 Certifications
+- IBM Data Analyst (Professional Certificate)
 - IBM Data Visualization with Python
 - IBM Data Analysis with Python
 - IBM Databases and SQL for Data Science with Python
