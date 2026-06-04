@@ -27,6 +27,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 
 📚 Certifications
 - IBM Data Analyst (Professional Certificate)
+- IBM Generative AI: Enhance your Data Analytics Career
 - IBM Data Visualization with Python
 - IBM Data Analysis with Python
 - IBM Databases and SQL for Data Science with Python
