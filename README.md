@@ -45,7 +45,8 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 🌱Currently Learning
 
 📊 Advanced Data Analytics Techniques  
-🤖 Machine Learning (Basics) 
+🤖 Machine Learning (Basics)
+
 📈 Data Storytelling & Business Insights  
 🧠 AI in Data Analytics  
 ☁️ Cloud Computing  
