@@ -33,6 +33,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - IBM Databases and SQL for Data Science with Python
 - IBM Python Project for Data Science
 - SKILLCOURSE 30 Days SQL Micro Course
+- SKILLCOURSE 30 Days Python Micro Course
 - SKILLCOURSE 30 Days Power BI Micro Course
 - IBM Python for Data Science, AI & Development
 - IBM Data Visualization and Dashboards with Excel and Cognos
