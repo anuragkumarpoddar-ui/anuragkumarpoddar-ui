@@ -40,21 +40,20 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - Support decision-making using insights and visualizations
 
 📚 Certifications
-- IBM Data Analyst (Professional Certificate)
-- IBM Generative AI: Enhance your Data Analytics Career
-- IBM Data Visualization with Python
-- IBM Data Analysis with Python
-- IBM Databases and SQL for Data Science with Python
-- IBM Python Project for Data Science
-- SKILLCOURSE 30 Days SQL Micro Course
-- SKILLCOURSE 30 Days Python Micro Course
-- SKILLCOURSE 30 Days Power BI Micro Course
-- IBM Python for Data Science, AI & Development
-- IBM Data Visualization and Dashboards with Excel and Cognos
-- IBM Excel Basics for Data Analysis
-- IBM Introduction To Data A nalysis
-- Data Analytics Essentials By Coursera
-- Engineering from WBUT in Mechanical
+- IBM Data Analyst (Professional Certificate) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/Q99CSBJMIWBH)
+- IBM Generative AI: Enhance your Data Analytics Career [View Certificate](https://coursera.org/share/f0f47a234b49a7d568b770a5bfea4142)
+- IBM Data Visualization with Python [View Certificate](https://coursera.org/share/54bb2e7f2f967bf0d4b9f569e6381d37)
+- IBM Data Analysis with Python [View Certificate](https://coursera.org/share/94887bcabaa5d3bc94b5997458905b4a)
+- IBM Databases and SQL for Data Science with Python [View Certificate](https://coursera.org/share/e9411190a950dca4525244a6743e3e3f)
+- IBM Python Project for Data Science [View Certificate](https://coursera.org/share/f3ca6214cf3574a7f0fcc920e59c68e2)
+- SKILLCOURSE 30 Days SQL Micro Course [View Certificate](https://edu.skillcourse.in/view-certificate/SC-UCXBH8M68V)
+- SKILLCOURSE 30 Days Python Micro Course [View Certificate](https://edu.skillcourse.in/view-certificate/SC-YBZQMZHQVZ)
+- SKILLCOURSE 30 Days Power BI Micro Course [View Certificate](https://edu.skillcourse.in/view-certificate/SC-TPHT1MOKYM)
+- IBM Python for Data Science, AI & Development [View Certificate](https://coursera.org/share/ad834a1658cce9835d23e7d5dec93a21)
+- IBM Data Visualization and Dashboards with Excel and Cognos [View Certificate](https://coursera.org/share/4bb81d941026a32a58259d841ee56a52)
+- IBM Excel Basics for Data Analysis [View Certificate](https://coursera.org/share/45d7d086cdf84313c495afe66ac535ad)
+- IBM Introduction To Data Analysis [View Certificate](https://coursera.org/share/630946b5675135b2b1411f27ce2a38f9)
+- Engineering from WBUT in Mechanical [View Certificate](https://www.linkedin.com/in/anurag-kumar-poddar-51239596/overlay/Education/218846313/treasury/?profileId=ACoAABRYgZ4B7a8vX88N8TYixUDmnO9wZ_rGrz8)
 
 🌱Currently Learning
 
