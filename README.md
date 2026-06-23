@@ -30,8 +30,8 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - Excel (Advanced, Pivot Tables, Dashboards)
 - SQL (Data querying, joins, data manipulation)
 - Python (Pandas, NumPy, Data Analysis)
-- Power BI & Tableau (Data Visualization & Reporting)
-- IBM Cognos Analytics
+- Power BI (Data Visualization & Reporting)
+- IBM Cognos Analytics (Data Visualization)
 
 📊 What I Do
 - Clean and preprocess messy data into structured formats
