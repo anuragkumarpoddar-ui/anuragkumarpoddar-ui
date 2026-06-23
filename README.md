@@ -55,14 +55,17 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - IBM Introduction To Data Analysis [View Certificate](https://coursera.org/share/630946b5675135b2b1411f27ce2a38f9)
 - Engineering from WBUT in Mechanical [View Certificate](https://www.linkedin.com/in/anurag-kumar-poddar-51239596/overlay/Education/218846313/treasury/?profileId=ACoAABRYgZ4B7a8vX88N8TYixUDmnO9wZ_rGrz8)
 
-🌱Currently Learning
+## 🌱 Currently Learning
 
-📊 Advanced Data Analytics Techniques  
-🤖 Machine Learning (Basics)
+<p align="left">
+<img src="https://img.shields.io/badge/Advanced_Data_Analytics-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Storytelling-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Engineering-005571?style=for-the-badge&logo=apacheairflow&logoColor=white">
+</p>
 
-📈 Data Storytelling & Business Insights  
-🧠 AI in Data Analytics  
-☁️ Cloud Computing  
 
 
 
