@@ -1,6 +1,19 @@
-**👋 Hi, I'm Anurag Kumar Poddar**
+<h1 align="center">**👋 Hi, I'm Anurag Kumar Poddar**</h1>
 
 💼 Data Analyst | 💼 Bardaha Criholic Private Limited | Turning Data into Insights
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-kumar-poddar-51239596/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:anuragkumarpoddar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=anurag-poddar&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+</p>
+
+---
+
 
 
 Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passionate about transforming raw data into meaningful insights that support business decisions.
