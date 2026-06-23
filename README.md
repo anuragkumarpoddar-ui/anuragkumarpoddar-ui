@@ -70,7 +70,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - 💼 LinkedIn: https://www.linkedin.com/in/anurag-poddar-51239596/
 - 📧 Email: anuragkumarpoddar@gmail.com
 - 📫 Instagram: https://www.instagram.com/anuraginzen111/
-- 🤖 Contact: +91 9748748405
+- 📱 Phone: [+91 9748748405](tel:+919748748405)
 
 ⚡ Fun Fact :    
 🔥I enjoy working with data and turning numbers into stories that drive impact 🚀
