@@ -1,6 +1,20 @@
 <h1 align="center">**👋 Hi, I'm Anurag Kumar Poddar**</h1>
 
-💼 Data Analyst | 💼 Bardaha Criholic Private Limited | Turning Data into Insights
+<h3 align="center">💼 Data Analyst | 💼 Bardaha Criholic Private Limited | Turning Data into Insights</h3>
+
+<p align="center">
+  <p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+</p>
 
 ---
 Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passionate about transforming raw data into meaningful insights that support business decisions.
