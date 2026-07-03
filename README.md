@@ -75,8 +75,8 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of experience, passiona
 - 📫 Instagram: https://www.instagram.com/anuraginzen111/
 - 📱 Phone: [+91 9748748405](tel:+919748748405)
 
-⚡ Fun Fact :    
-🔥I enjoy working with data and turning numbers into stories that drive impact 🚀
+<h2>⚡ Fun Fact</h2>
 
+<p><b>🚀 I love solving business problems with data—transforming raw datasets into interactive dashboards, actionable insights, and stories that inspire better decisions.</b></p>
 
-⭐ “Data is not just numbers, it's a story waiting to be told.If you can visualize it You can create it.”
+<p><b>⭐ "Behind every dataset lies a story. Analysis uncovers it, visualization brings it to life, and insights create impact."</b> 📈</p>
