@@ -17,7 +17,7 @@
 </p>
 
 ---
-Welcome to my GitHub! I’m a Data Analyst with 5+ months of experience, passionate about transforming raw data into meaningful insights that support business decisions.
+Welcome to my GitHub! I’m a Data Analyst with 5+ months of experience, passionate about transforming raw data into meaningful insights that support business decisions and 2 years building practical experience in data analysis.
 
 🚀 About Me
 - 📊 Data Analyst with hands-on experience in data cleaning, transformation, and visualization
