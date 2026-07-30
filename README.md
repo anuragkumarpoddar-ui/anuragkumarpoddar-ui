@@ -30,7 +30,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experie
 - SQL (Data querying, joins, data manipulation)
 - Python (Pandas, NumPy, Data Analysis)
 - Power BI (Data Visualization & Reporting)
-- IBM Cognos Analytics (Data Visualization)
+- IBM Cognos Analytics and Looker Studio (Data Visualization)
 
 📊 What I Do
 - Clean and preprocess messy data into structured formats
