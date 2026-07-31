@@ -18,6 +18,7 @@
 
 ---
 Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experience in data analysis and business intelligence. I specialize in Excel, SQL, Python, and Power BI, transforming raw data into actionable insights through analysis, visualization, and interactive dashboards.
+
 🚀 About Me
 - 📊 Data Analyst with hands-on experience in data cleaning, transformation, and visualization
 - 💡 Strong ability to convert complex datasets into actionable insights
