@@ -45,6 +45,8 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experie
 - IBM Data Analyst (Professional Certificate) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/Q99CSBJMIWBH)
 - IBM Generative AI: Enhance your Data Analytics Career [View Certificate](https://coursera.org/share/f0f47a234b49a7d568b770a5bfea4142)
 - IBM Data Visualization with Python [View Certificate](https://coursera.org/share/54bb2e7f2f967bf0d4b9f569e6381d37)
+- Microsoft Azure Fundamentals By Smplilearn [View Certificate](https://simpli-web.app.link/e/WDHIx6UUl5b)
+- Introduction to Agentic AI & LLM Architectures By Smplilearn  [View Certificate](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2ODM5IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvMTA1NDQwMjBfMTA4NzQzNTZfMTc4NTU4NTM3Mjk4Ny5wbmciLCJ1c2VybmFtZSI6IkFudXJhZyBLdW1hciBQb2RkYXIifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F10154%2FIntroduction-to-Agentic-AI-%26-LLM-Architectures%2F%28certificate%2Fdownload-skillup%2F%2Fcertificate%3Acertificate-locked-new%29&%24web_only=true&_branch_match_id=1546806521517109252&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVT%2FN09coyKy5OM02yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDACkD2M9BAAAA)
 - IBM Data Analysis with Python [View Certificate](https://coursera.org/share/94887bcabaa5d3bc94b5997458905b4a)
 - IBM Databases and SQL for Data Science with Python [View Certificate](https://coursera.org/share/e9411190a950dca4525244a6743e3e3f)
 - IBM Python Project for Data Science [View Certificate](https://coursera.org/share/f3ca6214cf3574a7f0fcc920e59c68e2)
