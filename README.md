@@ -57,6 +57,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experie
 - IBM Data Visualization and Dashboards with Excel and Cognos [View Certificate](https://coursera.org/share/4bb81d941026a32a58259d841ee56a52)
 - IBM Excel Basics for Data Analysis [View Certificate](https://coursera.org/share/45d7d086cdf84313c495afe66ac535ad)
 - IBM Introduction To Data Analysis [View Certificate](https://coursera.org/share/630946b5675135b2b1411f27ce2a38f9)
+- ADCA (Mother Teresa Educational Trust) [View Certificate](https://mtet.org.in/student/9084/)
 - Engineering from WBUT in Mechanical [View Certificate](https://www.linkedin.com/in/anurag-kumar-poddar-51239596/overlay/Education/218846313/treasury/?profileId=ACoAABRYgZ4B7a8vX88N8TYixUDmnO9wZ_rGrz8)
 
 ## 🌱 Currently Learning
