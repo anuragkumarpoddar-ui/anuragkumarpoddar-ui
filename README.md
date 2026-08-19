@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Anurag+Kumar+Poddar" alt="Typing SVG" />
+<h1 align="center">👋 Hi, I'm Anurag Kumar Poddar</h1>
 
 
 
