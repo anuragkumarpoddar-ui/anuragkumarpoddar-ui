@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Anurag Kumar Poddar</h1>
 
 
-
-<h3 align="center">💼 Data Analyst | 💼 Bardaha Criholic Private Limited | Turning Data into Insights</h3>
+<h3 align="center">💼 Data Analyst/Business Analyst | 💼 Bardaha Criholic Private Limited |  Turning Data into Insights</h3>
 
 <p align="center">
   <p align="center">
@@ -23,27 +22,84 @@
 </p>
 
 ---
-Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experience in data analysis and business intelligence. I specialize in Excel, SQL, Python, and Power BI, transforming raw data into actionable insights through analysis, visualization, and interactive dashboards.
+## 👋 Welcome to My GitHub
 
-🚀 About Me
-- 📊 Data Analyst with hands-on experience in data cleaning, transformation, and visualization
-- 💡 Strong ability to convert complex datasets into actionable insights
-- 📈 Experienced in building interactive dashboards and reports
-- 🔍 Detail-oriented with a focus on data accuracy and quality
-- 🧠 Strong foundation in statistics and analytical thinking
+I'm a **Data Analyst / Business Analyst with 2.5+ years of professional experience** in **Data Analytics and Business Intelligence**.
 
-🛠️ Tools & Technologies
-- Excel (Advanced, Pivot Tables, Dashboards)
-- SQL (Data querying, joins, data manipulation)
-- Python (Pandas, NumPy, Data Analysis)
-- Power BI (Data Visualization & Reporting)
-- IBM Cognos Analytics and Looker Studio (Data Visualization)
+---
 
-📊 What I Do
-- Clean and preprocess messy data into structured formats
-- Analyze large datasets to uncover trends and patterns
-- Create dashboards that tell a data-driven story
-- Support decision-making using insights and visualizations
+## 🚀 About Me
+
+- 📊 **2.5+ years** of professional experience in **Data Analytics & Business Intelligence**
+- 🔍 Experienced in **data cleaning, validation, reconciliation, and quality checks**
+- 📈 Build interactive **Power BI dashboards and MIS reports**
+- 🗄️ Strong experience with **SQL**, data extraction, joins, aggregations, CTEs, and window functions
+- 🐍 Use **Python, Pandas, NumPy, and Scikit-learn** for data analysis and machine learning
+- 📋 Experienced in **Advanced Excel**, Pivot Tables, XLOOKUP, INDEX-MATCH, VBA, and reporting automation
+- 🤝 Experience in **requirements understanding, stakeholder coordination, and business reporting**
+- ☁️ Working knowledge of **AWS analytics services and modern data platforms**
+- 🤖 Interested in **AI-assisted analytics, Generative AI, Machine Learning, and LLM technologies**
+
+---
+
+# 🛠️ Skills & Technologies
+
+### 📊 Data Analytics & Business Analysis
+
+`Data Analysis` • `EDA` • `KPI Analysis` • `Trend Analysis` • `Time-Series Analysis`  
+`Variance Analysis` • `Anomaly Detection` • `Statistical Analysis`  
+`Requirements Understanding` • `MIS Reporting` • `Business Reporting`
+
+---
+
+### 🗄️ SQL & Databases
+
+`SQL` • `PostgreSQL` • `MySQL` • `Joins` • `CTEs` • `Subqueries`  
+`Aggregations` • `CASE Statements` • `Window Functions`  
+`Data Cleaning` • `Data Validation`
+
+---
+
+### 📈 Business Intelligence
+
+`Power BI` • `DAX` • `Power Query` • `Data Modelling`  
+`Dashboard Development` • `KPI Reporting` • `Interactive Visualizations`  
+`IBM Cognos` • `Looker Studio`
+
+---
+
+### 🐍 Python & Machine Learning
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
+`Data Cleaning` • `EDA` • `Statistical Analysis`  
+`Regression` • `Classification` • `Clustering`  
+`Feature Engineering` • `Model Evaluation` • `Predictive Analytics`
+
+---
+
+### 📗 Excel & Automation
+
+`Advanced Excel` • `Pivot Tables` • `XLOOKUP` • `INDEX-MATCH` • `VLOOKUP`  
+`SUMIFS` • `COUNTIFS` • `VBA Macros`  
+`Power Automate` • `Workflow Automation` • `Report Automation`
+
+---
+
+### ☁️ Cloud & Data Platforms
+
+`AWS S3` • `Amazon RDS` • `AWS Glue` • `AWS Glue DataBrew`  
+`Amazon Athena` • `Amazon QuickSight`  
+`Microsoft Fabric Fundamentals` • `Azure Fundamentals`
+
+---
+
+### 🤖 AI & Productivity
+
+`Generative AI` • `ChatGPT` • `Microsoft Copilot` • `Claude`  
+`Prompt Engineering` • `AI-Assisted Data Analysis`  
+`AI-Assisted SQL/Python` • `LLM Fundamentals` • `Agentic AI Fundamentals`
+
+
 
 📚 Certifications
 - IBM Data Analyst (Professional Certificate) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/Q99CSBJMIWBH)
@@ -74,6 +130,7 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experie
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Engineering-005571?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Science-005571?style=for-the-badge&logo=apacheairflow&logoColor=indigo">
 </p>
 
 
@@ -82,7 +139,6 @@ Welcome to my GitHub! I’m a Data Analyst with 2+ years of professional experie
 📫 Connect With Me      
 - 💼 LinkedIn: https://www.linkedin.com/in/anurag-poddar-51239596/
 - 📧 Email: anuragkumarpoddar@gmail.com
-- 📫 Instagram: https://www.instagram.com/anuraginzen111/
 - 📱 Phone: [+91 9748748405](tel:+919748748405)
 
 <h2>⚡ Fun Fact</h2>
