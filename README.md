@@ -123,7 +123,7 @@ I am a results-driven **Data Analyst / Business Analyst with 2.5+ years of profe
   <h3>📫 Let's Connect & Collaborate!</h3>
   <p>Open to discussing Data Analytics projects, Business Intelligence architecture, and AI-driven insights.</p>
   
-  <a href="https://www.linkedin.com/in/anurag-poddar-51239596/" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag-kumar-poddar-51239596" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anuragkumarpoddar@gmail.com">
